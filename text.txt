@@ -1,0 +1,1 @@
+vless://0161469a-9df2-4d22-bae5-241d3b3831d7@yt.opengate.click:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=2d46a79deebf50fd#Youtube%20%E2%8F%AF%EF%B8%8F%20%D0%91%D0%B5%D0%B7%20%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20https%3A%2F%2Ft.me%2Fstrugov97
